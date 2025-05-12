@@ -6,7 +6,7 @@
 /Please note that, in the comments I use npcs and enemies intetchangebly. I always mean NPCs
 /Other Needed files:
 /*******************************/
-using namespace std;//fuck using the whole std::cin crap. If you think thats at all necessary you are a peice of shit
+using namespace std;//
 #include<iostream>//for cout cin, etc
 #include<iomanip>//for setw, 
 #include<cstring>//why is this not standard
